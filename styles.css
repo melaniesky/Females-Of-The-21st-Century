@@ -1,0 +1,106 @@
+html{
+  border-style: solid;
+   border-width: 60px;
+   border-color:#dfb2ff ;
+}
+
+h1{
+  font-family: 'Darker Grotesque', sans-serif;
+  text-align:center;
+  background-color:pink;
+  font-size:60px;
+  margin-left: -8px;
+  margin-right: -8px;
+}
+
+
+.topnav {
+  overflow: hidden;
+  background-color: #dfb2ff;
+  text-align: center;
+  margin-left: -8px;
+  margin-right: -8px;
+}
+
+.topnav a {
+  font-family: 'Didact Gothic', sans-serif;
+  color: #b2ffdf;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 30px;
+  margin-left: 8px;
+  margin-right: 8px;
+}
+
+.topnav a:hover {
+  background-color:#dfb2ff ;
+  color: white;
+}
+
+.topnav a.active {
+  background-color: #dfb2ff;
+  color: white;
+}
+
+h2{
+  font-family: 'Didact Gothic', sans-serif;
+   text-align:center;
+}
+.team{
+  background-color:pink;
+  font-size:37px;
+  margin-left:-8px;
+  margin-right: -8px;
+}
+.quote{
+  background-color:pink;
+  font-size:27px;
+  margin-left:-8px;
+  margin-right: -8px;
+}
+h3{
+ text-align:center;
+  background-color:#b2ffdf;
+  font-size:26px ;
+  font-family: 'Darker Grotesque', sans-serif;
+  margin-left: -8px;
+  margin-right: -8px;
+
+}
+.purpose{
+  margin:auto;
+  padding:auto;
+
+}
+img{
+    object-fit: cover;
+  width: 930px;
+  height:320px;
+  margin:0px;
+  padding:0px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+}
+p{
+  font-family: 'Darker Grotesque', sans-serif;
+  text-align:center;
+  font-size:25px;
+  height:43px;
+}
+.links{
+  background-color: #b2ffdf;
+  margin-left: -48px;
+  margin-right: -48px;
+  /* width: 100%; */
+}
+.instas{
+  font-family: 'Darker Grotesque', sans-serif;
+  text-align:center;
+  font-size:26px;
+  margin:25px;
+  padding:15px;
+
+}

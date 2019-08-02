@@ -1,0 +1,117 @@
+html{
+  border-style: solid;
+   border-width: 60px;
+   border-color:#dfb2ff ;
+}
+
+h1{
+  font-family: 'Darker Grotesque', sans-serif;
+  text-align:center;
+  background-color:pink;
+  font-size:60px;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: #dfb2ff;
+  text-align: center;
+  margin: 45px;
+  margin-left: -28px;
+  margin-right: -28px;
+}
+body{
+font-family: 'Darker Grotesque', sans-serif;
+
+}
+.topnav a {
+  font-family: 'Didact Gothic', sans-serif;
+  color: #b2ffdf;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 30px;
+  margin-left: 8px;
+  margin-right: 8px;
+}
+
+.topnav a:hover {
+  background-color:#dfb2ff ;
+  color: white;
+}
+
+.topnav a.active {
+  background-color: #dfb2ff;
+  color: white;
+}
+*{
+ margin:0;
+ padding: 0;
+ box-sizing: content-box;
+}
+
+h2{
+font-family: 'Lacquer', sans-serif;
+font-size:28px;
+text-align:center;
+}
+.bioname{
+background-color:#b2ffdf;
+font-size: 20px;
+text-align: center;
+margin: 30px;
+padding: 15px;
+margin-left: 0px;
+margin-right: 0px;
+}
+.bio{
+  font-family: 'Titillium Web', sans-serif;
+  font-size: 18px;
+  text-align: center;
+  margin: 15px;
+  padding: 10px;
+}
+
+.mainhead{
+text-align: center;
+background-color: pink;
+font-size: 18px;
+margin-left: 0px;
+margin-right:0px;
+}
+img{
+object-fit: cover;
+width: 250px;
+height:auto;
+margin:10px;
+border-style: solid;
+padding:20px;
+margin-left: 405px;
+margin-right:0px;
+width: 30%;
+border-radius:15px ;
+}
+
+.mainheadtext{
+  text-align: center;
+  font-family: 'Titillium Web', sans-serif;
+   font-size: 18px;
+margin: 25px;
+padding: 15px;
+}
+.subhead1{
+  text-align: center;
+background-color: #b2ffdf;
+margin:15px;
+padding: 10px;
+margin-left: 0px;
+margin-right:0px;
+}
+.subheadtext1{
+ margin: 15px;
+padding: 10px;
+font-family: 'Titillium Web', sans-serif;
+ font-size: 18px;
+text-align: center;
+}
